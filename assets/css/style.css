@@ -4,7 +4,10 @@ body {
     padding: 0;
     background-color: beige;
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: grab;
 }
+
 
 h1,
 h2 {
@@ -30,6 +33,7 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+    width: 100;
 }
 
 nav ul {
